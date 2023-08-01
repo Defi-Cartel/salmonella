@@ -57,4 +57,4 @@ See you in the mempool!
 
 
 ----------
-If you enjoyed this DeFi-Cartel writeup and are a serious trader, miner, or other player in the space, we are always open to potential revenue-generating ventures. Feel free to [get in touch](https://t.me/nathan_LCS) if you have a great idea on how we might collaborate.
+If you enjoyed this DeFi-Cartel writeup and are a serious trader, miner, or other player in the space, we are always open to potential revenue-generating ventures. Feel free to [get in touch](https://t.me/nathanworsley) if you have a great idea on how we might collaborate.
